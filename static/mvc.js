@@ -20,7 +20,7 @@
         let a_dom = d.createElement('a');
         a_dom.setAttribute('href','#'+route);
         a_dom.classList.add('nav-link');
-        linkName = route.replace('/','');
+        let linkName = route.replace('/','').replace("%20", " ");
         a_dom.innerText = linkName.charAt(0).toUpperCase() + linkName.slice(1);
         li_dom.appendChild(a_dom);
         $id('fh5co-main-menu').querySelector('.qqfeiche').appendChild(li_dom);

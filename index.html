@@ -14,9 +14,13 @@
 	<meta name="author" content="FreeHTML5.co" />
 	<style>
 		@font-face {
-			font-family: "kaiti";
-			src: url("fonts/icomoon/icommon.ttf") format("ttf");
+			font-family: "gaoyuan";
+			src: url("fonts/icomoon/simfang.ttf") format("truetype");
 		}
+		/*body{*/
+		/*	background-image: url("images/bg4.jpg");*/
+		/*	background-size:cover*/
+		/*}*/
 	</style>
   <!-- 
 	//////////////////////////////////////////////////////
@@ -156,25 +160,25 @@
 				checkActivate('Contact');
 			}, "/Contact", "template/resume.md");
 			//
+			// mvcinstance.addRoute(function () {
+			//
+			// 	replaceImg = function(){
+			// 		for (let cp of $_("img")){
+			// 			if(cp.id !== "touxiang"){
+			// 				let imgtmp = new cImg();
+			// 				imgtmp.src = cp.src;
+			// 				cp.parentNode.replaceChild(imgtmp,cp);
+			// 			}
+			// 		}
+			// 	};
+			//
+			// 	checkActivate('Fire%20Strategy');
+			// 	return {callback:replaceImg}
+			// }, "/Fire%20Strategy", "template/research.md");
 			mvcinstance.addRoute(function () {
-
-				replaceImg = function(){
-					for (let cp of $_("img")){
-						if(cp.id !== "touxiang"){
-							let imgtmp = new cImg();
-							imgtmp.src = cp.src;
-							cp.parentNode.replaceChild(imgtmp,cp);
-						}
-					}
-				};
-
-				checkActivate('Research');
-				return {callback:replaceImg}
-			}, "/Fire", "template/research.md");
-			mvcinstance.addRoute(function () {
-				checkActivate('X5 Fanmade');
+				checkActivate('X5%20Fanmade');
 				return {callback:loadImg}
-			}, "/X5 Fanmade", "template/album.html");
+			}, "/X5%20Fanmade", "template/album.html");
 			//
 
 			// mvcinstance.addRoute(function () {
