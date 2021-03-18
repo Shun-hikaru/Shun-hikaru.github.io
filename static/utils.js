@@ -3,7 +3,7 @@
     function $id(id) {
         return d.getElementById(id);
     }
-    function $(selector) {
+    function $qs(selector) {
         return d.querySelector(selector);
     }
     function $_(selector) {
@@ -54,7 +54,7 @@
     }
 
     w['$id']=$id;
-    w['$']=$;
+    w['$qs']=$qs;
     w['$_']=$_;
     w['$ajax'] = $ajax;
     w['$js'] = $js;
