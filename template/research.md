@@ -1,6 +1,10 @@
 ## 卖菜爆气表
 
 #### MEMBERS
+
+![Figure 1](imgs/全员-卖菜2.jpg "合照 —— 2021.2.11")
+![Figure 2](imgs/电车.jpg "录点组 —— 2021.2.11")
+![Figure 3](imgs/钢琴.jpg "录屏组 —— 2021.2.11")
 <p style="font-family: 'gaoyuan'; font-size:1em; color: #A8A8A8"><b>
 隼：  录屏 - 四模，代码，整合
 </b></p>
@@ -45,9 +49,17 @@
 真理： 录屏 - 泡弦
 </b></p>
 
+
+
+#### 说明：
+
+#### 原理：
+
+#### 赞助、反馈通道：
+
 [comment]: <> (Motion planning is used in robotics for finding a sequence of valid configurations that moves the robot from the source to a destination.)
 
-[comment]: <> (![Figure 1]&#40;imgs/Simulation.jpg "The simulation results of moving three exemplary objects. &#40;a&#41; The robot pile up three Domino blocks. &#40;b&#41; The robot stacks up two Coke cans. &#40;c&#41; The robot piles up three tissue boxes."&#41;)
+
 
 [comment]: <> (**Fig.1**: The simulation results of moving three exemplary objects. &#40;a&#41; The robot pile up three Domino blocks. &#40;b&#41; The robot stacks up two Coke cans. &#40;c&#41; The robot piles up three tissue boxes.)
 
