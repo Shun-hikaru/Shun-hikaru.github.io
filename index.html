@@ -159,22 +159,22 @@
 			mvcinstance.addRoute(function () {
 				checkActivate('Contact');
 			}, "/Contact", "template/resume.md");
-			//
-			// mvcinstance.addRoute(function () {
-			//
-			// 	replaceImg = function(){
-			// 		for (let cp of $_("img")){
-			// 			if(cp.id !== "touxiang"){
-			// 				let imgtmp = new cImg();
-			// 				imgtmp.src = cp.src;
-			// 				cp.parentNode.replaceChild(imgtmp,cp);
-			// 			}
-			// 		}
-			// 	};
-			//
-			// 	checkActivate('Fire%20Strategy');
-			// 	return {callback:replaceImg}
-			// }, "/Fire%20Strategy", "template/research.md");
+
+			mvcinstance.addRoute(function () {
+
+				replaceImg = function(){
+					for (let cp of $_("img")){
+						if(cp.id !== "touxiang"){
+							let imgtmp = new cImg();
+							imgtmp.src = cp.src;
+							cp.parentNode.replaceChild(imgtmp,cp);
+						}
+					}
+				};
+
+				checkActivate('Fire%20Strategy');
+				return {callback:replaceImg}
+			}, "/Fire%20Strategy", "template/research.md");
 			mvcinstance.addRoute(function () {
 				checkActivate('X5%20Fanmade');
 				return {callback:loadImg}

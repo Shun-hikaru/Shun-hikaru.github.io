@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c67d4f4-5220-4461-8567-fc86e6a021e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/206090308.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2092284696.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/256534280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/536373505.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/545093487.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/570338194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/IMG_20190915_162510.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/IMG_20190915_193733.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/RealExecution.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/Screenshot from 2020-01-04 23-35-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/Simulation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/UI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/boundingBox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/ex2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/photolist" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/photolist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/quarto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/real.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/imgsloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/imgsloader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/mvc.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/mvc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/utils.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/utils.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/main.md" beforeDir="false" afterPath="$PROJECT_DIR$/template/main.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/qqfeiche.md" beforeDir="false" afterPath="$PROJECT_DIR$/template/qqfeiche.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/template/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/template/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +67,7 @@
       <workItem from="1615914457895" duration="1223000" />
       <workItem from="1615954496480" duration="1070000" />
       <workItem from="1615955742725" duration="1370000" />
-      <workItem from="1615957478358" duration="10340000" />
+      <workItem from="1615957478358" duration="11678000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,31 @@
 ## 卖菜爆气表
 
 #### MEMBERS
-<table><tr><td bgcolor=#eaeaea>隼：   录屏 - 四模，代码，整合</td></tr></table>
+<p style="font-family: 'gaoyuan'; font-size:1em; color: #5a6268"><b>
+隼：  录屏 - 四模，代码，整合
+</b></p>
 
+<p style="font-family: 'gaoyuan'; font-size:1em; color: indianred"><b>
+当歌： 录屏 - 星弹泡 
+</b></p>
+
+<p style="font-family: 'gaoyuan'; font-size:1em; color: #ec971f"><b>
+东野： 描述
+</b></p>
+
+<p style="font-family: 'gaoyuan'; font-size:1em; color: hotpink"><b>
+㳸開： 录屏 - 星弹弦 
+</b></p>
+
+
+
+<table><tr><td bgcolor=green>
+水果名称| 价格 |  数量  
+-|-|-
+香蕉 | $1 | 5 |
+苹果 | $1 | 6 |
+草莓 | $1 | 7 |
+</td></tr></table>
 Motion planning is used in robotics for finding a sequence of valid configurations that moves the robot from the source to a destination.
 
 ![Figure 1](imgs/Simulation.jpg "The simulation results of moving three exemplary objects. (a) The robot pile up three Domino blocks. (b) The robot stacks up two Coke cans. (c) The robot piles up three tissue boxes.")

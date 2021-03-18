@@ -7,7 +7,7 @@
             request.open("GET", "imgs/photolist", true);
             request.onreadystatechange = () => {
                 if (request.readyState === 4 && request.status === 200) {
-                    var elements = request.responseText.split("\r");
+                    var elements = request.responseText.split("\n");
                     for (let x of elements) {
                         if (x.match(/\.(jpe?g|png|gif)$/)) {
                             fetchImg2(x, fathernode)
