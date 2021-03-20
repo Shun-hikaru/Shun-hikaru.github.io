@@ -4,7 +4,7 @@
         if ($id('albumarea')) {
             var fathernode = $id('albumarea');
             var request = new XMLHttpRequest();
-            request.open("GET", "imgs/photolist", true);
+            request.open("GET", "imgs/photolist.txt", true);
             request.onreadystatechange = () => {
                 if (request.readyState === 4 && request.status === 200) {
                     var elements = request.responseText.split("\r");

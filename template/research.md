@@ -54,7 +54,7 @@
 
 #### 原理：
 
-#### 赞助、反馈通道：
+[comment]: <> (#### 赞助、反馈通道：)
 
 [comment]: <> (Motion planning is used in robotics for finding a sequence of valid configurations that moves the robot from the source to a destination.)
 
