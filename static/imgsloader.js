@@ -9,7 +9,7 @@
                 if (request.readyState === 4 && request.status === 200) {
                     var elements = request.responseText.replace(/(\r\n|\n|\r)/gm, " ").split(" ");
                     for (let x of elements) {
-                        if (x.match(/\.(jpe?g|png|gif)$/)) {
+                        if (x.match(/\.(jpe?g|png|gif|PNG|JPE?G)$/)) {
                             fetchImg2(x, fathernode)
                         }
                     }
